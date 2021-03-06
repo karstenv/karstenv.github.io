@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: karstenv/slate
 title: [Spatial Intersection]
 description: [Tips and tricks for spatial enthusiasts]
 github:
