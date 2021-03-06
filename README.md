@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Spatial Intersection
 
 You can use the [editor on GitHub](https://github.com/karstenv/karstenv.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
